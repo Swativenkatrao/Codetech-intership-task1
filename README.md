@@ -25,3 +25,7 @@ Upon running the application, you will be presented with a CLI menu where you ca
 
 Acknowledgments
 Special thanks to Muzammil Ahmed sir  for guidance and support.
+
+![Screenshot 2024-08-15 161120](https://github.com/user-attachments/assets/d19033f3-3795-416a-b2e9-8e36ec0d1390)
+
+![Screenshot 2024-08-15 161120](https://github.com/user-attachments/assets/3d11e6e4-e1e0-40a6-b339-e456f1b07cff)
